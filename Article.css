@@ -1,0 +1,7 @@
+.body{
+    background-image: url(./images/geometric-abstract.gif);
+    background-repeat: repeat;
+    }
+    .active{
+        border-bottom: 3px solid rgb(95, 95, 194);
+    }
